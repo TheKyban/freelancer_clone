@@ -279,9 +279,7 @@ nav a:hover {
 .home2 .icons {
     overflow-x: auto;
 }
-.home2 .icons::-webkit-scrollbar {
-    /* width: 0; */
-}
+
 .home2 .icons > p {
     color:rgb(63, 59, 59);
     font-size: 1.3rem;
